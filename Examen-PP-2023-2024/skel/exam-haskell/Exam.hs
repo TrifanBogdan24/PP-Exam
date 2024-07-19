@@ -16,11 +16,8 @@ data BTree = Empty | Node Int BTree BTree deriving (Show, Eq)
  - 5   6     7         7     6   5
  -}
 
-
-
 mirror :: BTree -> BTree
 mirror = undefined
-
 
 {--
  - 2.
@@ -31,12 +28,6 @@ mirror = undefined
 get_level :: Int -> BTree -> [Int]
 get_level = undefined
 
--- daca primul paremetru este 0, atunci am ajuns la un nod de pe nivelul `n`
-get_level = undefined
-
--- `++` operatorul de concatenare a doua liste
-get_level = undefined
-
 {--
  - 3.
  - Pornind de la recurenta: f(n) = f(n-1) + f(n-4)
@@ -45,12 +36,8 @@ get_level = undefined
  - Definiti lista infinita care contine toate valorile functiei f.
  -}
 
-
-
-
 f :: [Int]
 f = undefined
-
 
 {--
  - Zipper este un tip de date care reprezinta o lista cu un element curent.
@@ -78,7 +65,6 @@ data Direction = L | R
 shift ::  Direction -> Zipper a -> Zipper a
 shift = undefined
 
-
 {--
  - 5.
  - Inrolati tipul Zipper in clasa Eq astfel incat sa puteti compara doua zipere.
@@ -90,7 +76,8 @@ shift = undefined
  - [1 2 3] 4 [5 6 7] == [1 2 3] 5 [6 7] -> False
  -}
 
-instance (Eq a) => undefined
+instance (Eq a) => Eq (Zipper a) where
+    (==) = undefined
 
 {--
  - 6. [BONUS]
@@ -101,11 +88,6 @@ instance (Eq a) => undefined
  - [1 2 3] 4 [5 6 7] -> map_all f -> [1 3 6] 10 [15 21 28]
  -}
 
-
--- NU TREC TESTELE!!!!!!!
 map_all :: ([a] -> a -> [a] -> b) -> Zipper a -> Zipper b
 map_all = undefined
 
--- Helper functions
-tails :: [a] -> [[a]]
-tails = undefined
