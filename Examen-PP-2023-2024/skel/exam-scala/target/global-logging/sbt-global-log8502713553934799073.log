@@ -1,0 +1,88 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.9.7 (Oracle Corporation Java 21.0.2)
+[debug] Load.defaultLoad until apply took 107.81163ms
+[debug]           Load.loadUnit: plugins took 52.98614ms
+[debug]           Load.loadUnit: defsScala took 0.383498ms
+[debug] [Loading] Scanning directory /home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala/project
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in /home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala/project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 17.086083 ms
+[debug]               Load.resolveProject(exam-scala-build) took 35.262879ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id exam-scala-build, base: /home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala/project, plugins: List(<none>))) took 72.808035ms
+[debug] [Loading] Done in /home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala/project, returning: (exam-scala-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 98.718683ms
+[debug]           Load.loadUnit: cleanEvalClasses took 0.164888ms
+[debug]         Load.loadUnit(file:/home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala/project/, ...) took 159.120069ms
+[debug]       Load.apply: load took 318.245701ms
+[debug]       Load.apply: resolveProjects took 6.225546ms
+[debug]       Load.apply: finalTransforms took 53.77005ms
+[debug]       Load.apply: config.delegates took 6.297743ms
+[debug]       Load.apply: Def.make(settings)... took 332.95906ms
+[debug]       Load.apply: structureIndex took 71.871003ms
+[debug]       Load.apply: mkStreams took 1.231082ms
+[info] loading project definition from /home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala/project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug]     Load.loadUnit: plugins took 1493.09688ms
+[debug]     Load.loadUnit: defsScala took 0.002515ms
+[debug] [Loading] Scanning directory /home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala
+[debug]       Load.loadUnit: mkEval took 3.174146ms
+[debug] [Loading] Found root project root w/ remaining 
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 1.79429 ms
+[info] loading settings for project root from build.sbt ...
+[debug]         Load.resolveProject(root) took 2.030015ms
+[debug]       Load.loadTransitive: finalizeProject(Project(id root, base: /home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala, plugins: List(<none>))) took 4.720921ms
+[debug] [Loading] Done in /home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala, returning: (root)
+[debug]     Load.loadUnit: loadedProjectsRaw took 99.693794ms
+[debug]     Load.loadUnit: cleanEvalClasses took 2.370547ms
+[debug]   Load.loadUnit(file:/home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala/, ...) took 1596.35441ms
+[debug] Load.apply: load took 1618.333956ms
+[debug] Load.apply: resolveProjects took 0.118659ms
+[debug] Load.apply: finalTransforms took 12.159043ms
+[debug] Load.apply: config.delegates took 0.344484ms
+[debug] Load.apply: Def.make(settings)... took 72.732625ms
+[debug] Load.apply: structureIndex took 22.442094ms
+[debug] Load.apply: mkStreams took 0.003178ms
+[info] set current project to ExamenPP (in build file:/home/bogdan/Documents/INFORMATICA/Facultate/PP/PP-exam/Examen-PP-2023-2024/skel/exam-scala/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(notifyUsersAboutShell, None, None)
+[debug] > Exec(iflast shell, None, None)
+[debug] > Exec(shell, None, None)
+[info] sbt server started at local:///home/bogdan/.sbt/1.0/server/e286e9ee1cb326fe71fe/sock
+[debug] Writing bsp connection file
+[info] started sbt server

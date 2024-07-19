@@ -1,0 +1,4 @@
+[warn] scala-library-2.13.11-sources.jar no longer exists at \Users\alexandrutrofim\Library\Caches\Coursier\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.11\scala-library-2.13.11-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/flori/OneDrive/Desktop/examenPP_Scala_Trofim_Alexandru_322CD_v3/scala/Examen-PP/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/flori/OneDrive/Desktop/examenPP_Scala_Trofim_Alexandru_322CD_v3/scala/Examen-PP/"), "root")
