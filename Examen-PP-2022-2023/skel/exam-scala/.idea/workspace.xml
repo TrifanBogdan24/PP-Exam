@@ -4,7 +4,104 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c58fa393-f80d-4822-8a93-460c78dde443" name="Changes" comment="" />
+    <list default="true" id="c58fa393-f80d-4822-8a93-460c78dde443" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/.idea/modules/ExamenPP.ExamenPP-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/.idea/modules/ExamenPP.ExamenPP-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/.idea/modules/ExamenPP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/.idea/modules/ExamenPP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$1e7536c9db2e0aa20475$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$1e7536c9db2e0aa20475.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$1e7536c9db2e0aa20475.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$2329031fc37eb49c0768$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$2329031fc37eb49c0768.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$2329031fc37eb49c0768.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$5a2d561f91b96d03b781$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$5a2d561f91b96d03b781.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$5a2d561f91b96d03b781.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$74a6823aaf0a6df418ca$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$74a6823aaf0a6df418ca.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/config-classes/$74a6823aaf0a6df418ca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/src/main/scala/ExamPP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/src/main/scala/ExamPP.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/classes/ExamPP$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/classes/ExamPP$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/classes/ExamPP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/classes/ExamPP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/classes/ExamPP.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/classes/ExamPP.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/test-classes/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/test-classes/Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/test-classes/Tests.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/scala-3.4.2/test-classes/Tests.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/exam-scala/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/skel.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/skel.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/scala-2.12/sync/copy-resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/scala-2.12/test-sync/copy-resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/_global/_global/definedTestNames/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/definedTests/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/loadedTestFrameworks/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/test/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/testListeners/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Examen-PP-2023-2024/skel/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +111,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -26,26 +126,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/flori/OneDrive/Desktop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/flori/OneDrive/Desktop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
       </set>
     </attachedChunks>
   </component>
@@ -60,6 +161,7 @@
       <workItem from="1686781524675" duration="582000" />
       <workItem from="1721354494316" duration="256000" />
       <workItem from="1721354832876" duration="148000" />
+      <workItem from="1724742901599" duration="5000" />
     </task>
     <servers />
   </component>

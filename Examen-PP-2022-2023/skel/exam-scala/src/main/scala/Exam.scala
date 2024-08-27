@@ -17,6 +17,10 @@ trait InfiniList {
 
 }
 
+/*
+Cons2( Cons1(1, Cons1(2, Void)), Cons1(3, Void)) = ((1,2),3)
+ */
+
 
 object Exam {
   /*
